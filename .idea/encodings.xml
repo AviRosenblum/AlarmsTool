@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bin/ellie/com/alarmstool/AlarmReceiver.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bin/ellie/com/alarmstool/DBAlarms.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bin/ellie/com/alarmstool/SetAlarms.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
